@@ -1,1 +1,2 @@
-I’ve learned how to fork, commit, branch, and push code using Git and GitHub. I now understand version control better and feel more confident working with collaborative repositories.
+I’ve learned how to fork, commit, branch, and push code using Git and GitHub. I now 
+understand version control better and feel more confident working with collaborative repositories.
