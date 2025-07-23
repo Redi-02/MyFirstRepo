@@ -1,1 +1,1 @@
-I have learned how to use Git and GitHub to manage code, track changes, and collaborate on projects.
+I’ve learned how to fork, commit, branch, and push code using Git and GitHub. I now understand version control better and feel more confident working with collaborative repositories.
